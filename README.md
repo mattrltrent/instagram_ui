@@ -1,4 +1,4 @@
 # instagram_flutter
-(old project)
+(old project; just uploading to Github now)
 
 ![example](assets/example.gif)
